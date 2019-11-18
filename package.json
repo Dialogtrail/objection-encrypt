@@ -1,6 +1,6 @@
 {
   "name": "objection-encrypt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Automatically add encryption to selected fields of your Objection models",
   "main": "index.js",
   "scripts": {
