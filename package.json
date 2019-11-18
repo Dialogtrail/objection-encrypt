@@ -1,0 +1,29 @@
+{
+  "name": "objection-encrypt",
+  "version": "0.1.0",
+  "description": "No description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dialogtrail/objection-encrypt.git"
+  },
+  "keywords": [
+    "objection",
+    "knex",
+    "encrypt",
+    "node"
+  ],
+  "author": "Dialogtrail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dialogtrail/objection-encrypt/issues"
+  },
+  "homepage": "https://github.com/Dialogtrail/objection-encrypt#readme",
+  "devDependencies": {
+    "knex": "^0.14.4",
+    "objection": "^1.0.0"
+  }
+}
