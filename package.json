@@ -1,7 +1,7 @@
 {
   "name": "objection-encrypt",
-  "version": "0.1.0",
-  "description": "No description",
+  "version": "0.1.1",
+  "description": "Automatically add encryption to selected fields of your Objection models",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
