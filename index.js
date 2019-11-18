@@ -7,7 +7,7 @@ module.exports = options => {
     {
       fields: [],
       algorithm: 'aes-256-cbc',
-      encryptionKey: 'my-secret-key',
+      encryptionKey: '',
       ivLength: 16
     },
     options
