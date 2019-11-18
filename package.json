@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Dialogtrail/objection-encrypt#readme",
   "devDependencies": {
-    "knex": "^0.14.4",
+    "knex": "^0.20.2",
     "objection": "^1.0.0"
   }
 }
